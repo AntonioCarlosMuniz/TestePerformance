@@ -1,0 +1,6 @@
+C:\Users\anton\source\repos\TestePerformance\Subtracao\bin\Debug\Subtracao.exe.config
+C:\Users\anton\source\repos\TestePerformance\Subtracao\bin\Debug\Subtracao.exe
+C:\Users\anton\source\repos\TestePerformance\Subtracao\bin\Debug\Subtracao.pdb
+C:\Users\anton\source\repos\TestePerformance\Subtracao\obj\Debug\Subtracao.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\TestePerformance\Subtracao\obj\Debug\Subtracao.exe
+C:\Users\anton\source\repos\TestePerformance\Subtracao\obj\Debug\Subtracao.pdb

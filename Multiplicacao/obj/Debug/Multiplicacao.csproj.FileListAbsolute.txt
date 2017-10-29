@@ -1,0 +1,6 @@
+C:\Users\anton\source\repos\TestePerformance\Multiplicacao\bin\Debug\Multiplicacao.exe.config
+C:\Users\anton\source\repos\TestePerformance\Multiplicacao\bin\Debug\Multiplicacao.exe
+C:\Users\anton\source\repos\TestePerformance\Multiplicacao\bin\Debug\Multiplicacao.pdb
+C:\Users\anton\source\repos\TestePerformance\Multiplicacao\obj\Debug\Multiplicacao.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\TestePerformance\Multiplicacao\obj\Debug\Multiplicacao.exe
+C:\Users\anton\source\repos\TestePerformance\Multiplicacao\obj\Debug\Multiplicacao.pdb

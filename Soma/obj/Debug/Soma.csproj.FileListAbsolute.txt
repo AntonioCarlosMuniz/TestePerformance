@@ -1,0 +1,7 @@
+C:\Users\anton\source\repos\TestePerformance\Soma\bin\Debug\Soma.exe.config
+C:\Users\anton\source\repos\TestePerformance\Soma\bin\Debug\Soma.exe
+C:\Users\anton\source\repos\TestePerformance\Soma\bin\Debug\Soma.pdb
+C:\Users\anton\source\repos\TestePerformance\Soma\obj\Debug\Soma.csprojResolveAssemblyReference.cache
+C:\Users\anton\source\repos\TestePerformance\Soma\obj\Debug\Soma.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\TestePerformance\Soma\obj\Debug\Soma.exe
+C:\Users\anton\source\repos\TestePerformance\Soma\obj\Debug\Soma.pdb
